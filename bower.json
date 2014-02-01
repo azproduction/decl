@@ -1,0 +1,12 @@
+{
+    "name": "decl",
+    "version": "1.0.4",
+    "main": "index.js",
+    "description": "Declarative elements constructors.",
+    "license": "MIT",
+    "ignore": [
+        ".gitignore",
+        "LICENCE",
+        "README.md"
+    ]
+}
